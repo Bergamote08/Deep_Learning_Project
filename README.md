@@ -2,29 +2,8 @@
 
 ## Introduction
 
-Ce code est un exemple d'un modèle de classification de spam utilisant TensorFlow, une bibliothèque de deep learning. Le modèle est formé pour prédire si un message texte est du spam ou non en se basant sur le texte du message. Le code comprend le prétraitement des données, la création du modèle, la formation du modèle et la visualisation des performances.
-
-## Prérequis
-
-Assurez-vous d'avoir installé les bibliothèques Python suivantes avant d'exécuter le code :
-
-- `tensorflow`
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `spacy`
-- `en_core_web_sm` (un modèle spaCy en anglais)
-- `scikit-learn`
-
-Vous pouvez les installer en utilisant la commande suivante :
-
-```python
-!pip install tensorflow pandas numpy matplotlib spacy scikit-learn
-```
-
-## Chargement du Dataset
-
-Le code commence par charger un jeu de données qui contient des messages texte étiquetés comme spam ou non-spam.
+Ce projet a été developpé dans le cadre de la certification de Machine learning Engineer de Jedha. Il s'agit de développer un modèle de classification de spam. 
+Il se base sur les données fournit par AT&T, une compagnie de télécommunication qui souhaite protéger ses usagers des spams.
 
 ## Exploration des Données
 
@@ -57,4 +36,4 @@ Des graphiques sont générés pour visualiser les performances du modèle, y co
 
 ## Conclusion
 
-Ce code présente un exemple de création d'un modèle de classification de spam en utilisant TensorFlow. Vous pouvez personnaliser ce modèle en modifiant les hyperparamètres, en ajoutant des couches ou en ajustant d'autres aspects du modèle pour obtenir de meilleures performances.
+Ce code présente un exemple de création d'un modèle de classification de spam en utilisant TensorFlow. 
