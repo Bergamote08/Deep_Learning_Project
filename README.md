@@ -37,3 +37,6 @@ Des graphiques sont générés pour visualiser les performances du modèle, y co
 ## Conclusion
 
 Ce code présente un exemple de création d'un modèle de classification de spam en utilisant TensorFlow. 
+
+## Auteur
+Ce notebook a été créé par Charlotte ALLEN
